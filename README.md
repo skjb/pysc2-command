@@ -1,2 +1,2 @@
-# pysc2-command
-Provides a nice interface for interacting with pysc2
+# Ursadon
+Provides a nice interface for interacting with PySC2
